@@ -7,9 +7,9 @@ PHP 电子商品条形码生成系统， 可生成13位的数字条形码， 输
 This is a re-working of [php-barcode](http://dev.yunnan.ws/tools/barcode/ "php-EAN-13-barcode") by Tekin. 
 Supported EAN-13 barcodes
 
-### Why
+### Demo
 
-
+http://dev.yunnan.ws/tools/barcode/
 
 
 ### How do I use this?
